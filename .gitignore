@@ -4,6 +4,9 @@
 # environment variables
 .env
 
+# package-lock.json
+package-lock.json
+
 # compiled output
 /dist
 /node_modules
